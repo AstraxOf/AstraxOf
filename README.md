@@ -65,6 +65,7 @@ MCP para que la IA controle tu PC: mueve el mouse, da clic y hasta juega ajedrez
 
 </td>
 </tr>
+
 </table>
 
 ### 📊 GitHub
